@@ -8,7 +8,7 @@ body {
 h1 {
     font-size: 42px;
     font-family: 'Bungee Shade', cursive;
-    color: #2e69a3;
+    color: #2f0433;
     margin-top: 21px;
     margin-bottom: 30px;
     line-height: 32px;
@@ -20,6 +20,7 @@ h3 {
     	font-family: 'Bungee', cursive;
     	margin-top: 10px;
     	margin-bottom: 45px;
+    	color: #201821;
 }
 
 .slider_container {
