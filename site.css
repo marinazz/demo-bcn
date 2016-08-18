@@ -6,18 +6,20 @@ body {
 }
 
 h1 {
-font-size: 32px;
- font-family: 'Bungee Shade', cursive; sans-serif;
-color: #2e69a3;
-margin-top: 21px;
-margin-bottom: 10px;
+    font-size: 42px;
+    font-family: 'Bungee Shade', cursive;
+    color: #2e69a3;
+    margin-top: 21px;
+    margin-bottom: 30px;
+    line-height: 32px;
 }
 
 h3 {
 	font-size: 24px;
-	font-family: 'Bungee', cursive; sans-serif;
-	margin-top: 10px;
-  	margin-bottom: 20px;
+    	line-height: 24px;
+    	font-family: 'Bungee', cursive;
+    	margin-top: 10px;
+    	margin-bottom: 45px;
 }
 
 .slider_container {
