@@ -1,5 +1,7 @@
 jQuery(document).ready(function ($) {
-        //Define an array of slideshow transition code
+        
+        $('.emoji').css('transform', 'translate(60px,20px) scale(5,5)')
+        
         var _SlideshowTransitions = [
         {$Duration:1200,x:0.3,$During:{$Left:[0.3,0.7]},$Easing:{$Left:$JssorEasing$.$EaseInCubic,$Opacity:$JssorEasing$.$EaseLinear},$Opacity:2}
         ];
@@ -14,3 +16,4 @@ jQuery(document).ready(function ($) {
         };
         var bcn_slider = new $JssorSlider$('slider_container', options);
     });
+
