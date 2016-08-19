@@ -41,3 +41,9 @@ h3 {
 	font-size: 36px;
 	color: #ffffff;
 }
+
+.club_description {
+	width: 30%;
+	font-family: 'PT Sans'; sans-serif;
+	font-size: 24px;
+}
