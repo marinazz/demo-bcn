@@ -78,3 +78,7 @@ h3 {
 .club_details {
 	margin-bottom: 10px;
 }
+
+.emoji {
+	transition: transform 2s;
+}
