@@ -61,3 +61,7 @@ h3 {
 .club_subtitle {
 	margin-left: 320px;
 }
+
+.clear{
+	clear: both;
+}
