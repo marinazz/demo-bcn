@@ -81,4 +81,7 @@ h3 {
 
 .emoji {
 	transition: transform 2s;
+	position: fixed;
+	top: 0;
+	left: 0;
 }
